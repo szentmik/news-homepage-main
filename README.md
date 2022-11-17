@@ -26,15 +26,10 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 - **Bonus**: Toggle the mobile menu (requires some JavaScript)
 
-### Screenshot
-
-./screenshot.jpg
-./screenshot-mobile.jpg
-
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://szentmik.github.io/news-homepage-main/)
 
 ## My process
 
